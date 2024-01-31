@@ -1,0 +1,21 @@
+.rodape {
+    background-image: url("fundo.png");
+    background-color: #6278f7;
+}
+
+.rodape .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 214px;
+}
+
+.rodape .container .sociais {
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+}
+
+.rodape .container .frase {
+    color: #fff;
+}
